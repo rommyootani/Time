@@ -1,0 +1,23 @@
+/* 
+  Localizable.strings
+  KadaiApuri
+
+  Created by rommy cecilia fuentes davila otani on 19/01/25.
+  
+*/
+"add" = "追加";
+"indication_for_registration" = "ある時刻と、時間の範囲(開始時刻と終了時刻)を入力してください。";
+"some_time" = "ある時刻";
+"start_time" = "開始時刻";
+"end_time" = "終了時刻";
+"to_evaluate" = "判断する";
+"result_of_evaluation" = "判断結果";
+"hour" = "時";
+"include" = "含む";
+"exclude" = "含まない";
+"message_register_success" = "時刻登録が完了しました。";
+"message_register_error" = "時刻登録が失敗しました。";
+"title_time_register" = "時刻登録";
+"title_time_list" = "時刻リスト";
+"invalid_value" = "時刻を整数で入力してください。";
+"invalid_range_value" = "0から23までの整数を入力してください。";
